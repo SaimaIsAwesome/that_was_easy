@@ -1,0 +1,46 @@
+#easy {
+    width: 100px;
+    height: 45px;
+    font-size: 20px;
+    font-family: cursive;
+    background-color: purple;
+}
+
+#hard {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: darkred;
+    font-size: 20px;
+    font-family: inherit;
+}
+
+#loud {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 445px;
+    top: 15px;
+}
+
+#unexpected {
+    width: 100px;
+    height: 60px;
+    border-radius: 600px;
+    background-color: green;
+    font-family: monospace;
+}
+
+#video {
+    display: none;
+}
+
+#whocares {
+    width: 100px;
+    height: 100px;
+    background-color: darkblue;
+    font-family: fantasy;
+}
