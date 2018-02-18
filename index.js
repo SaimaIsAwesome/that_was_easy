@@ -1,1 +1,3 @@
-window.open("index.html");
+<script>
+    window.open("index.html");
+</script>
