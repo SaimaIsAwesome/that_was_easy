@@ -41,6 +41,13 @@ function close_window() {
   }
 }
 
+function addImages() {
+    var img = document.createElement("img");
+    img.src = "https://media2.giphy.com/media/ULyYV5amK2eYM/200.gif";
+    var src = document.getElementById("images");
+    src.appendChild(img);
+}
+
 //WhoCares Sound
 function show_video(){
             $("#video").css("display", "block");
